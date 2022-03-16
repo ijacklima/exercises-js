@@ -11,6 +11,7 @@ for (let i = 1000; i <= 2000; i++) {
 }
 
 /*
+Antes de chegar no resultado:
 for (let i = 1000; i <= 2000; i++) {
   const result = i % 11;
   if (result === 2) {
